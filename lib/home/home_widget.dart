@@ -46,7 +46,7 @@ class _HomeWidgetState extends State<HomeWidget> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                'Home',
+                'Home test',
                 style: FlutterFlowTheme.of(context).bodyMedium.override(
                       fontFamily: 'Readex Pro',
                       fontSize: 34.0,
